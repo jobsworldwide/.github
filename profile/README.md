@@ -36,7 +36,7 @@ Welcome to the **Jobs Worldwide** project! 🌍
 
 ## License
 
-This project is licensed under the [MIT License](../../roles/LICENSE).
+This project is licensed under the [MIT License](https://github.com/jobsworldwide/roles/blob/main/LICENSE).
 
 ---
 
